@@ -28,9 +28,10 @@ I'm currently learning Algorithms and boy o' boy am i excited to come up with O(
 I have a discord you can see me there 😁 : @Aaryan22#2876
 Also, if you're wondering, YES, I do have an [official geek certificate](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab).
 
-## 🥅Goals for 2022
+## 🥅Goals for 2023
 
-- Learn 3 programming languages to the **EXPERT** level.
-- Have 2 absolutely polished projects.
+- Update your projects to 2023
+- Work more on low level programming
 - Find out how to center a div😡
-- Complete Data structures and Algorithm and be interview ready.
+- Get an amazing internship and learn everything you can
+
