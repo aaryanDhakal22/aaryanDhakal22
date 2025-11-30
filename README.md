@@ -1,37 +1,79 @@
-<!-- - 👋 Hi, I’m Aaryan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+<img src="https://raw.githubusercontent.com/aaryanDhakal22/aaryanDhakal22/master/banner.jpg" />
 
-<!---
-aaryanDhakal22/aaryanDhakal22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hey, I'm Aaryan Dhakal
 
-<img src="https://raw.githubusercontent.com/aaryanDhakal22/aaryanDhakal22/master/banner.jpg">
+I'm a backend-focused CS student who loves building automation tools, infrastructure setups, and internal systems that make life easier. I use programming as part of my daily workflow—whether it's orchestrating my homelab, solving annoying repetitive tasks, or experimenting with distributed systems.
 
-## A⛵ me
+I’m currently pursuing my CS degree (YSU → CCBC → Towson University) and working toward a Summer 2026 internship. :contentReference[oaicite:0]{index=0}
 
-Hi! I'm Aaryan. I have lots of python automated tasks which couldve been solved within minutes but i love automation. I love using programming as tools in my daily life. I dont have much experience as of yet. I'm still hard at work trying to be good at programming. I dont use social medias as of yet.
+---
 
-## Collaborate?😍
+## 🚀 What I Do
 
-I'd love to collaborate with you on almost any idea. It kinda fells like im selling a service 😂. But no, I genuinely enjoy programming and learning. Ive been self studying for about 4 years on my own.
+- Build backend systems using **Go, Python, and TypeScript**
+- Automate everything I possibly can (even tasks that take 2 minutes… because why not?)
+- Work heavily with **Docker/Podman, Kubernetes, Linux, and Traefik**
+- Design and maintain my own **homelab with VLANs, reverse proxying, monitoring, and global SSH access**
 
-## Current⚡
+I enjoy solving real problems with code—not just writing programs.
 
-I'm currently learning Algorithms and boy o' boy am i excited to come up with O(n^2) and get hit with a O(1)😂
+---
 
-## Contact☎️
+## 🤝 Collaboration
 
-I have a discord you can see me there 😁 : @Aaryan22#2876
-Also, if you're wondering, YES, I do have an [official geek certificate](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab).
+I love collaborating on ideas that involve:
 
-## 🥅Goals for 2023
+- Backend engineering  
+- Infrastructure / DevOps  
+- Automation tools  
+- Homelab / self-hosting projects  
+- APIs, microservices, CLIs  
 
-- Update your projects to 2023
-- Work more on low level programming
-- Find out how to center a div😡
-- Get an amazing internship and learn everything you can
+If you have something cool, experimental, or chaotic, I’m in.
 
+---
+
+## 🔗 Contact Me
+
+- 🌐 Portfolio: **https://www.aaryandhakal.com** :contentReference[oaicite:1]{index=1}  
+- 💼 LinkedIn: **https://linkedin.com/in/aaryandhakal22**  
+- 📧 Email: **aaryan.dhakal22@gmail.com**  
+
+(And yes, I *do* have an [official geek certificate](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab).)
+
+---
+
+## 🎯 Goals for 2026
+
+These are the things I’m actively working toward:
+
+- Earn **CKA certification** In progress  
+- Earn **AWS Developer Associate**
+- Sharpen my CI/CD and infrastructure skills  
+- Expand and optimize my homelab  
+- Learn more system design  
+- Finally understand how to center a div 😡  
+- Land an amazing software engineering internship  
+
+---
+
+## 🛠️ Current Focus
+
+- Backend engineering  
+- Distributed systems  
+- Automation scripts  
+- Building production-ready internal tools  
+- Strengthening cloud & DevOps fundamentals  
+
+---
+
+## 💡 Fun Facts
+
+- I’ve been self-studying programming for 4+ years  
+- I avoid social media (except GitHub + Discord)  
+- I love debugging systems way more than I should  
+- I like making tools that replace old, painful processes  
+
+---
+
+Thanks for visiting! 🚀
